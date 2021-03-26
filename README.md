@@ -1,31 +1,26 @@
 ### Features
 
-- Київський національний політехнічний університет Розробка програмного забезпечення 2020-2021 Весняний термін Розробка програмного забезпечення "Основи розробки програмного забезпечення на Java" лабораторні завдання курсу 
+- Київський національний політехнічний університет Розробка програмного забезпечення 2020-2021 Весняний термін Розробка програмного забезпечення "Основи розробки програмного забезпечення на Java"лабораторні завдання курсу 
 
 
-**Table of Contents**
-
-[TOCM]
+**All Assigment**
 
 
+[Lab1](https://drive.google.com/file/d/1q0bYTD-cqdd7wwDIF0RFkrTZrPL_LSU4/view?usp=sharing)
 
-####Lab1
-[Heading link](https://drive.google.com/file/d/1q0bYTD-cqdd7wwDIF0RFkrTZrPL_LSU4/view?usp=sharing)
-####Lab2 
-[Heading link](https://drive.google.com/file/d/1xj_2AY5HM1D5UWWlcBnuW5e8KACpxzxz/view?usp=sharing)
-####Lab3
-[Heading link](https://drive.google.com/file/d/1H_iArfwAXIGpR8cI2r1vg9j_DJhgx3hV/view?usp=sharing)
-####Lab4 
-[Heading link](https://drive.google.com/file/d/1JB8YxlnEnVuXSlMIKduOK1GvouUjmVHB/view?usp=sharing) 
-####Lab5
-[Heading link](https://drive.google.com/file/d/1xoHtHHIJ02RT8UGan13l1Ifqq49ZRvxI/view?usp=sharing)
-####Lab6
-[Heading link](https://drive.google.com/file/d/1Zu-U10xR7KpGfZ_NgrEvOgX4qvZnhhMD/view?usp=sharing)
-####Lab7
-[Heading link](https://drive.google.com/file/d/1EoaPQtLRsht8FGF4Rx7n6HDTVhwe3XyF/view?usp=sharing)
-####Lab8
-[Heading link](https://drive.google.com/file/d/1-eoueWQM_R1tUFzPbQlh-yijr50_l-3b/view?usp=sharing)
+[Lab2](https://drive.google.com/file/d/1xj_2AY5HM1D5UWWlcBnuW5e8KACpxzxz/view?usp=sharing)
 
+[Lab3](https://drive.google.com/file/d/1H_iArfwAXIGpR8cI2r1vg9j_DJhgx3hV/view?usp=sharing)
+
+[Lab4](https://drive.google.com/file/d/1JB8YxlnEnVuXSlMIKduOK1GvouUjmVHB/view?usp=sharing) 
+
+[Lab5](https://drive.google.com/file/d/1xoHtHHIJ02RT8UGan13l1Ifqq49ZRvxI/view?usp=sharing)
+
+[Lab6](https://drive.google.com/file/d/1Zu-U10xR7KpGfZ_NgrEvOgX4qvZnhhMD/view?usp=sharing)
+
+[Lab7](https://drive.google.com/file/d/1EoaPQtLRsht8FGF4Rx7n6HDTVhwe3XyF/view?usp=sharing)
+
+[Lab8](https://drive.google.com/file/d/1-eoueWQM_R1tUFzPbQlh-yijr50_l-3b/view?usp=sharing)
 
 ###Code Blocks (multi-language) & highlight
 
