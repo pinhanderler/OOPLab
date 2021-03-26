@@ -22,7 +22,7 @@
 
 [Lab8](https://drive.google.com/file/d/1-eoueWQM_R1tUFzPbQlh-yijr50_l-3b/view?usp=sharing)
 
-###Code Blocks (multi-language) & highlight
+###Code Blocks 
 
 ####Java
 
@@ -82,7 +82,7 @@ public class Main {
 ```
 
 
-####WriteBy 
+####WriteBy
 #####Gamzenur Uzunlu
 
 <p align="center">
