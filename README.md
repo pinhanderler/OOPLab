@@ -82,8 +82,9 @@ public class Main {
 ```
 
 
-####WriteBy
-#####Gamzenur Uzunlu
+#### WriteBy
+
+##### Gamzenur Uzunlu
 
 <p align="center">
 <a href="mailto:pinhanderler@gmail.com" target="_blank" title="Mail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="pinhanderler@gmail.com" height="30" width="30" /></a> <a href="https://www.instagram.com/pinhanderler" target="_blank" title="Instagram"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/pinhanderler" height="30" width="30" /></a><a href="https://www.instagram.com/codepinhan" target="_blank" title="Instagram"><a href="https://t.me/pinhanderler" target="_blank" title="Telegram"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/pinhanderler" height="30" width="30" /></a><a href="https://www.linkedin.com/in/gamzenur-uzunlu-95171b1a6/" target="_blank" title="LinkedIn"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gamzenur-uzunlu-95171b1a6/" height="30" width="30" /></a>
