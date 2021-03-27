@@ -3,6 +3,7 @@ package lab2;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
+import java.util.Collections;
 
 /**
  * Номер заліковки - 9882
@@ -44,11 +45,12 @@ public class Main {
         return c;
     }
 
-    static char findRowMax(char[][] c, int m, int index){
-        char max = (char) c[index][0];
-        for(int j = 1; j < m; ++j)
-            max = (char) Math.max(max, c[index][j]);
-        return max;
+    static char findRowMax(char[] row) {
+        return Collections.max(row);
+    }
+
+    static char findRowMin(char[] row) {
+        return Collections.min(row);
     }
 
     public static void main(String[] args) {
@@ -70,10 +72,13 @@ public class Main {
             System.out.println("Матриця A + B");
             char[][] c = sumArrays(a, b, n, m);
             char sum = 0;
-            for(int i = 0; i < n; ++i){
-                sum += findRowMax(c, m, i);
+            for(int i = 0; i < n; i++) {
+                if (i % 2 == 0)
+                  sum += findRowMax(c[i]);
+                else
+                  sum += findRowMin(c[i]);
             }
-            System.out.println("Сума найбільших елементів у рядках - " + sum);
+            System.out.println("Сума: " + sum);
             in.close();
         } catch (FileNotFoundException e) {
             System.out.println("Файл не знайдено");
