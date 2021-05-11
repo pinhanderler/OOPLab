@@ -1,4 +1,4 @@
-package lab6;
+package Lab6V2;
 
 public class Refrigerator extends ElectricAppliances {
     public Refrigerator(String n, int p, float w, String c, String m, int f){
